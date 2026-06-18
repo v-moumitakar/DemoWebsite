@@ -1,1 +1,2 @@
 This is register page
+this is new line
